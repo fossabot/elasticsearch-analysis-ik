@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzhoumengyks%2Felasticsearch-analysis-ik.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzhoumengyks%2Felasticsearch-analysis-ik?ref=badge_shield)
+
 IK Analysis for Elasticsearch
 =============================
 
@@ -259,3 +261,7 @@ YourKit, LLC is the creator of innovative and intelligent tools for profiling
 Java and .NET applications. Take a look at YourKit's leading software products:
 <a href="http://www.yourkit.com/java/profiler/index.jsp">YourKit Java Profiler</a> and
 <a href="http://www.yourkit.com/.net/profiler/index.jsp">YourKit .NET Profiler</a>.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzhoumengyks%2Felasticsearch-analysis-ik.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzhoumengyks%2Felasticsearch-analysis-ik?ref=badge_large)
